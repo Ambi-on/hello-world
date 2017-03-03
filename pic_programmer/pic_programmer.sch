@@ -1366,6 +1366,6 @@ NoConn ~ 6250 7100
 NoConn ~ 6250 7250
 NoConn ~ 6250 7400
 NoConn ~ 6250 7550
-Text Notes 8300 1150 0    197  ~ 0
-!@#$!@#$153154\n
+Text Notes 7400 1000 0    197  ~ 0
+Try to change in Sch\n
 $EndSCHEMATC
